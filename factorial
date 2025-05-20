@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+
+int factorial (int n){
+if(n==0||n==1)
+return 1;
+else  
+return n*factorial(n-1);
+}
+
+
+int main(){
+    int sum 
+    printf("enter a posstive integer");
+    scanf("%d", &sum);
+    if(num<0)
+}
+    return 0;
+}
